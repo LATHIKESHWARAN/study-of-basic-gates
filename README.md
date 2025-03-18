@@ -1,5 +1,6 @@
 # study-of-basic-gates
-
+## Name : Lathikeshwaran J
+## Reg No : 212222230072
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -66,21 +67,9 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by:LATHIKESHWARAN J RegisterNumber: 212222230072
+![Screenshot 2025-03-05 091511](https://github.com/user-attachments/assets/a451b9ed-e3a6-429a-a5da-3989fde4f33c)
 
- ```C
-module logic_gate(a,b,y1,y2,y3,y4,y5,y6,y7);
-input a,b;
-output y1,y2,y3,y4,y5,y6,y7;
-and(y1,a,b);
-or(y2,a,b);
-not(y3,a);
-nand(y4,a,b);
-nor(y5,a,b);
-xor(y6,a,b);
-xnor(y7,a,b);
-endmodule
-```
+
  
 ## Logic symbol & Truthtable
 ![image](https://github.com/LATHIKESHWARAN/study-of-basic-gates/assets/119393556/a6d687ee-aaaf-4b5e-afcb-f6b52b0e7287)
