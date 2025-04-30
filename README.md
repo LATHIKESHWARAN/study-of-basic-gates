@@ -1,4 +1,4 @@
-# study-of-basic-gates
+# EXP_01  study-of-basic-gates
 ## Name : Lathikeshwaran J
 ## Reg No : 212222230072
 **AIM:** 
@@ -72,7 +72,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  
 ## Logic symbol & Truthtable
-![image](https://github.com/LATHIKESHWARAN/study-of-basic-gates/assets/119393556/a6d687ee-aaaf-4b5e-afcb-f6b52b0e7287)
+![image](https://github.com/user-attachments/assets/9b39efe3-b146-4cba-bf7e-91aad50c95af)
+
 
 
 ![image](https://github.com/LATHIKESHWARAN/study-of-basic-gates/assets/119393556/546c5d5a-23ff-4715-888e-f416caaf9db6)
